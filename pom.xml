@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.starrocks</groupId>
-    <artifactId>udf</artifactId>
+    <artifactId>starrocks_java_udf</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
